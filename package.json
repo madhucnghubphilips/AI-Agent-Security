@@ -1,0 +1,18 @@
+{
+  "_comment": "The OWASP Top 10 for LLM Applications (2025) training was designed and developed by CN Madhu (madhu.cn@philips.com). This program combines industry-relevant content and practical labs to showcase real-world AI security risks, vulnerabilities, and defense strategies in healthcare environments.",
+  "name": "owasp-top10-llm-workshop",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static GitHub Pages slide deck for AI security learning notes.",
+  "scripts": {
+    "build": "node scripts/build-site.js",
+    "build:deck": "node scripts/build-deck.js",
+    "site": "node scripts/build-site.js",
+    "preview": "npx http-server site -c-1 -a 127.0.0.1"
+  },
+  "devDependencies": {
+    "@marp-team/marp-cli": "^4.2.3",
+    "http-server": "^14.1.1"
+  }
+}
+
