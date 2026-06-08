@@ -18,19 +18,19 @@ Real AI security is built in layers, not in single controls.
 ![bg contain](../../Resources/slide2.png)
 
 ---
-
-<!-- This is slide 2 -->
-<!-- _class: image -->
-![bg contain](../../Resources/AI%20Agents%20Security(b).png)
-
----
-
 <!-- This is slide 3 -->
 # The 14-Layer Security Model
 
 Agentic AI systems need protection across identity, prompts, tools, execution, memory, secrets, monitoring, data, knowledge sources, supply chain, testing, delegation, and governance.
 
 Each layer reduces a different failure mode. Together, they create defense in depth for enterprise AI agents.
+
+
+---
+<!-- This is slide 2 -->
+<!-- _class: image -->
+![bg contain](../../Resources/AI%20Agents%20Security(b).png)
+
 
 ---
 
