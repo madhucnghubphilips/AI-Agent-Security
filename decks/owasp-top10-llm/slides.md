@@ -21,7 +21,7 @@ Real AI security is built in layers, not in single controls.
 
 <!-- This is slide 2 -->
 <!-- _class: image -->
-![bg contain](../../Resources/AI%20Agents%20Security.png)
+![bg contain](../../Resources/AI%20Agents%20Security(b).png)
 
 ---
 
