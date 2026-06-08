@@ -14,6 +14,10 @@ Real AI security is built in layers, not in single controls.
 **Many threats. Many layers. Real security.**
 
 ---
+<!-- _class: image -->
+![bg contain](../../Resources/slide2.png)
+
+---
 
 <!-- This is slide 2 -->
 <!-- _class: image -->
