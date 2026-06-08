@@ -78,42 +78,36 @@ Each layer reduces a different failure mode. Together, they create defense in de
 
 ---
 
-<!-- This is slide 12: Data Privacy & Governance -->
-<!-- _class: image -->
-![bg contain](../../Resources/AI_Agent_09A.png)
-
----
-
-<!-- This is slide 13: Data Privacy & Governance examples -->
+<!-- This is slide 12: Data Privacy & Governance examples -->
 <!-- _class: image -->
 ![bg contain](../../Resources/AI_Agent_09B.png)
 
 ---
 
-<!-- This is slide 14: RAG / Knowledge Poisoning Defense -->
+<!-- This is slide 13: RAG / Knowledge Poisoning Defense -->
 <!-- _class: image -->
 ![bg contain](../../Resources/AI_Agent_10.png)
 
 ---
 
-<!-- This is slide 15: Supply Chain Security -->
+<!-- This is slide 14: Supply Chain Security -->
 <!-- _class: image -->
 ![bg contain](../../Resources/AI_Agent_11.png)
 
 ---
 
-<!-- This is slide 16: Continuous Red Teaming -->
+<!-- This is slide 15: Continuous Red Teaming -->
 <!-- _class: image -->
 ![bg contain](../../Resources/AI_Agent_12.png)
 
 ---
 
-<!-- This is slide 17: Delegation & Multi-Agent Trust -->
+<!-- This is slide 16: Delegation & Multi-Agent Trust -->
 <!-- _class: image -->
 ![bg contain](../../Resources/AI_Agent_13.png)
 
 ---
 
-<!-- This is slide 18: Agent Governance & Guardrails -->
+<!-- This is slide 17: Agent Governance & Guardrails -->
 <!-- _class: image -->
 ![bg contain](../../Resources/AI_Agent_14.png)
